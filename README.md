@@ -1,7 +1,3 @@
-<p align="center">
-[![DIO](https://lh3.googleusercontent.com/proxy/EhpqFuw7ApJnVm1B-eyGQ7ebJmEFy-nbTFB88VxEcvGGHTW5WX2JPDYPTnTFOP-kxRgmLn6b6CbDECNCHjzAKlowAn72Z1Q9eY3I "DIO")](https://lh3.googleusercontent.com/proxy/EhpqFuw7ApJnVm1B-eyGQ7ebJmEFy-nbTFB88VxEcvGGHTW5WX2JPDYPTnTFOP-kxRgmLn6b6CbDECNCHjzAKlowAn72Z1Q9eY3I "DIO")
-</p>
-
 # Introdução a Programação
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|

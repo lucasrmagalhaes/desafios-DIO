@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://lh3.googleusercontent.com/proxy/EhpqFuw7ApJnVm1B-eyGQ7ebJmEFy-nbTFB88VxEcvGGHTW5WX2JPDYPTnTFOP-kxRgmLn6b6CbDECNCHjzAKlowAn72Z1Q9eY3I" alt="DIO" width=600 height=160>
+<img src="https://i.imgur.com/3YDJqpm.png" alt="DIO" width=600 height=160>
 </p>
 
 # Introdução a Programação

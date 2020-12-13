@@ -3,9 +3,35 @@
 </p>
 
 <details>
+    <summary>Java</summary>
+
+# Ordenação e Filtros em Java
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Ordenando Números Pares e Ímpares | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/1.%20Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares/OrderingEvenNumbers.java) |
+|  2  | Compras no Supermercado | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/2.%20Compras%20no%20Supermercado/SupermarketShopping.java) |
+|  3  | Uniformes de Final de Ano | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/3.%20Uniformes%20de%20Final%20de%20Ano/YearEndUniform.java) |
+|  4  | Fila do Banco | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/4.%20Fila%20do%20Banco/BankQueue.java) |
+|  5  | Gincana no Acampamento | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/5.%20Gincana%20no%20Acampamento/GymkhanaInTheCamp.java) |
+
+# Resolvendo Algoritmos com Java
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Coração das Cartas | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/1.%20Cora%C3%A7%C3%A3o%20das%20Cartas/Main.java) |
+|  2  | Abreviando Posts do Blog | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/2.%20Abreviando%20Posts%20do%20Blog/Main.java) |
+|  3  | Combinação de Strings | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/3.%20Combina%C3%A7%C3%A3o%20de%20Strings/Main.java) |
+|  4  | Hash Mágico | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/4.%20Hash%20M%C3%A1gico/Main.java) |
+|  5  | O Tabuleiro Secreto | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/5.%20O%20Tabuleiro%20Secreto/Main.java) |
+
+</details>
+
+<details>
     <summary>JavaScript</summary>
 
 # Introdução a Programação
+
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
 |  1  | Dividindo X por Y | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.1.%20Dvividindo%20X%20por%20Y/solucao.js) |

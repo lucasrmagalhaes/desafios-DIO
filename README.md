@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/3YDJqpm.png" alt="DIO" width=500 height=150>
 </p>
 
-# Desafios e soluções da plataforma Digital Innovation One. :books:
+# Desafios e Soluções :books:
 
 <details>
     <summary>Java</summary>

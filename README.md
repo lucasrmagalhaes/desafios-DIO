@@ -1,6 +1,6 @@
-# Desafios e Soluções :books:
-
-<p align="center">
+<h1 align="center">
+  Desafios e Soluções :books:
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://digitalinnovation.one/sign-in">
     <img 
          src="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/DIO.png" 
@@ -9,7 +9,7 @@
          height=100
     />
   </a>
-</p>
+</h1>
 
 <details>
     <summary>Java</summary>

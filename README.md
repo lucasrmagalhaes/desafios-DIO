@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/3YDJqpm.png" alt="DIO" width=500 height=150>
+  <img src="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/DIO.png" alt="DIO" width=300 height=100>
 </p>
 
 # Desafios e Soluções :books:

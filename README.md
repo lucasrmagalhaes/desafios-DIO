@@ -9,9 +9,23 @@
 </h1>
 
 <details>
+    <summary>C Sharp</summary>
+
+<h1 align="center">Introdução a Programação com C#</h1>
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Dividindo X por Y | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/1.%20Dividindo%20X%20por%20Y/solucao.cs) |
+|  2  | Distância | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/2.%20Dist%C3%A2ncia/solucao.cs) |
+|  3  | Quanta Mandioca? | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs) |
+
+</details>
+
+
+<details>
     <summary>Java</summary>
 
-# Ordenação e Filtros em Java
+<h1 align="center">Ordenação e Filtros em Java</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
@@ -21,7 +35,7 @@
 |  4  | Fila do Banco | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/4.%20Fila%20do%20Banco/BankQueue.java) |
 |  5  | Gincana no Acampamento | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/5.%20Gincana%20no%20Acampamento/GymkhanaInTheCamp.java) |
 
-# Resolvendo Algoritmos com Java
+<h1 align="center">Resolvendo Algoritmos com Java</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
@@ -36,7 +50,7 @@
 <details>
     <summary>JavaScript</summary>
 
-# Introdução a Programação
+<h1 align="center">Introdução a Programação</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
@@ -44,7 +58,7 @@
 |  2  | Distância | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.2.%20Dist%C3%A2ncia/solucao.js) |
 |  3  | Quanta Mandioca? | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.3.%20Quanta%20Mandioca/solucao.js) |
 
-# Fundamentos Aritméticos
+<h1 align="center">Fundamentos Aritméticos</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
@@ -54,7 +68,7 @@
 |  4  | Contagem de Cédulas | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/2.%20Fundamentos%20Aritm%C3%A9ticos/2.4.%20Contagem%20de%20C%C3%A9dulas/solucao.js) |
 |  5  | Consumo Médio do Automóvel | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/2.%20Fundamentos%20Aritm%C3%A9ticos/2.5.%20Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel/solucao.js) |
 
-# Problemas Aritméticos
+<h1 align="center">Problemas Aritméticos</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
@@ -64,7 +78,7 @@
 |  4  | Imposto de Renda | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/3.%20Problemas%20Aritm%C3%A9ticos/3.4.%20Imposto%20de%20Renda/solucao.js) |
 |  5  | Teorema da Divisão Euclidiana | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/3.%20Problemas%20Aritm%C3%A9ticos/3.5.%20Teorema%20da%20Divis%C3%A3o%20Euclidiana/solucao.js) |
 
-# Soluções e Problemas Essenciais
+<h1 align="center">Soluções e Problemas Essenciais</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
@@ -74,7 +88,7 @@
 |  4  | Validação da Nota | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/4.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/4.4.%20Valida%C3%A7%C3%A3o%20da%20Nota/solucao.js) |
 |  5  | Pedro Bento e o Mundo de OZ | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/4.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/4.5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.js) |
 
-# Busca e Laços de Repetição
+<h1 align="center">Busca e Laços de Repetição</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|

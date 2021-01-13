@@ -22,6 +22,7 @@
  * da moto X, seguido da mensagem " minutos".
  *
  **********************************************************************************************/
+
 using System;
 
 class Distancia 

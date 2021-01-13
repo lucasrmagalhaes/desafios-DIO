@@ -17,6 +17,7 @@
  * “divisao impossivel” caso não seja possível efetuar o cálculo.
  *
  **********************************************************************************************/
+
 using System;
 
 class DividindoXPorY 

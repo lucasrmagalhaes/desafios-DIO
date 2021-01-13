@@ -1,12 +1,16 @@
-<h1 align="left">Desafios e Soluções :books:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://digitalinnovation.one/sign-in">
+
+<p align="center">
+<a href="https://digitalinnovation.one/sign-in">
     <img 
          src="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/DIO.png" 
          alt="DIO"
-         width=300 
-         height=100
+         width=150 
+         height=50
     />
-  </a>
-</h1>
+</a>
+</p>
+
+<h1 align="left">Desafios e Soluções :books:</h1>
 
 <details>
     <summary>C Sharp</summary>

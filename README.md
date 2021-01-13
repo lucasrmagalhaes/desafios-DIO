@@ -91,14 +91,3 @@
 |  5  | Menor e Posição | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/5.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/5.5.%20Menor%20e%20Posi%C3%A7%C3%A3o/solution.js) |
 
 </details>
-
-<p align="right">
-<a href="https://digitalinnovation.one/sign-in">
-    <img 
-         src="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/DIO.png" 
-         alt="DIO"
-         width=150 
-         height=50
-    />
-</a>
-</p>

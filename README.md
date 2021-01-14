@@ -15,16 +15,15 @@
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
-|  1  | Hora da Corrida | [Código](#) |
-|  2  | Cardápio Aéreo | [Código](#) |
-|  3  | Pizza Antes do Final do Ano | [Código](#) |
-|  4  | Conversão de Tempo | [Código](#) |
-|  5  | Idade em Dias | [Código](#) |
-|  6  | Tempo do Dobby | [Código](#) |
-|  7  | Rodízio de Cavalos e Carruagens | [Código](#) |
+|  1  | Hora da Corrida | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/1.%20Hora%20da%20Corrida/solucao.cs) |
+|  2  | Cardápio Aéreo | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/2.%20Card%C3%A1pio%20A%C3%A9reo/solucao.cs) |
+|  3  | Pizza Antes do Final do Ano | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/3.%20Pizza%20Antes%20do%20Final%20do%20Ano/solucao.cs) |
+|  4  | Conversão de Tempo | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/4.%20Convers%C3%A3o%20de%20Tempo/solucao.cs) |
+|  5  | Idade em Dias | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/5.%20Idade%20em%20Dias/solucao.cs) |
+|  6  | Tempo do Dobby | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/6.%20Tempo%20do%20Dobby/solucao.cs) |
+|  7  | Rodízio de Cavalos e Carruagens | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/7.%20Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens/solucao.cs) |
 
 </details>
-
 
 <details>
     <summary>Java</summary>

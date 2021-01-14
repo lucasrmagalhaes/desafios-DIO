@@ -27,11 +27,11 @@
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
-|  1  | Quadrado e ao Cubo | [Código]() |
-|  2  | A Corrida de Tartarugas | [Código]() |
-|  3  | Ultrapassando V | [Código]() |
-|  4  | Validação de Nota | [Código]() |
-|  5  | Pedro Bento e o Mundo de OZ | [Código]() |
+|  1  | Quadrado e ao Cubo | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/1.%20Quadrado%20e%20ao%20Cubo/solucao.cs) |
+|  2  | A Corrida de Tartarugas | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/2.%20A%20Corrida%20de%20Tartarugas/solucao.cs) |
+|  3  | Ultrapassando V | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/3.%20Ultrapassando%20V/solucao.cs) |
+|  4  | Validação de Nota | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/4.%20Valida%C3%A7%C3%A3o%20de%20Nota/solucao.cs) |
+|  5  | Pedro Bento e o Mundo de OZ | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.cs) |
 
 </details>
 

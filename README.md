@@ -3,7 +3,7 @@
 <details>
     <summary>C Sharp</summary>
 
-<h5 align="center">Introdução a Programação com C#</h5>
+<h5 align="left">Introdução a Programação com C#</h5>
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|

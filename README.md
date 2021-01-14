@@ -30,7 +30,7 @@
 <h1 align="center">Resolvendo Algoritmos com Java</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
+|:---:|:------------------------|:-------:|
 |  1  | Coração das Cartas | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/1.%20Cora%C3%A7%C3%A3o%20das%20Cartas/Main.java) |
 |  2  | Abreviando Posts do Blog | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/2.%20Abreviando%20Posts%20do%20Blog/Main.java) |
 |  3  | Combinação de Strings | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/3.%20Combina%C3%A7%C3%A3o%20de%20Strings/Main.java) |
@@ -45,7 +45,7 @@
 <h1 align="center">Introdução a Programação</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
+|:---:|:------------------------|:-------:|
 |  1  | Dividindo X por Y | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.1.%20Dvividindo%20X%20por%20Y/solucao.js) |
 |  2  | Distância | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.2.%20Dist%C3%A2ncia/solucao.js) |
 |  3  | Quanta Mandioca? | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.3.%20Quanta%20Mandioca/solucao.js) |
@@ -53,7 +53,7 @@
 <h1 align="center">Fundamentos Aritméticos</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
+|:---:|:------------------------|:-------:|
 |  1  | Quantidade de Números Positivos | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/2.%20Fundamentos%20Aritm%C3%A9ticos/2.1.%20Quantidade%20de%20N%C3%BAmeros%20Positivos/solucao.js) |
 |  2  | Exibindo Números Pares | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/2.%20Fundamentos%20Aritm%C3%A9ticos/2.2.%20Exibindo%20N%C3%BAmeros%20Pares/solucao.js) |
 |  3  | Análise de Números | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/2.%20Fundamentos%20Aritm%C3%A9ticos/2.3.%20An%C3%A1lise%20de%20N%C3%BAmeros/solucao.js) |
@@ -63,7 +63,7 @@
 <h1 align="center">Problemas Aritméticos</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
+|:---:|:------------------------|:-------:|
 |  1  | Soma Simples | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/3.%20Problemas%20Aritm%C3%A9ticos/3.1.%20Soma%20Simples/solucao.js) |
 |  2  | Coxinha de Bueno | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/3.%20Problemas%20Aritm%C3%A9ticos/3.2.%20Coxinha%20de%20Bueno/solucao.js) |
 |  3  | Cálculo da Viagem | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/3.%20Problemas%20Aritm%C3%A9ticos/3.3.%20C%C3%A1lculo%20da%20Viagem/solucao.js) |
@@ -73,7 +73,7 @@
 <h1 align="center">Soluções e Problemas Essenciais</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
+|:---:|:------------------------|:-------:|
 |  1  | Quadrado e ao Cubo | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/4.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/4.1.%20Quadrado%20e%20ao%20Cubo/solucao.js) |
 |  2  | A Corrida de Tartarugas | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/4.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/4.2.%20A%20Corrida%20de%20Tartarugas/solucao.js) |
 |  3  | Ultrapassando V | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/4.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/4.3.%20Ultrapassando%20V/solucao.js) |
@@ -83,7 +83,7 @@
 <h1 align="center">Busca e Laços de Repetição</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
+|:---:|:------------------------|:-------:|
 |  1  | O Escolhido | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/5.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/5.1.%20O%20Escolhido/solucao.js) |
 |  2  | Comunicação em Piralândia | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/5.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/5.2.%20Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia/solucao.js) |
 |  3  | Degustação de Vinho | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/5.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/5.3.%20Degusta%C3%A7%C3%A3o%20de%20Vinho/solucao.js) |

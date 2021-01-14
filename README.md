@@ -23,6 +23,16 @@
 |  6  | Tempo do Dobby | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/6.%20Tempo%20do%20Dobby/solucao.cs) |
 |  7  | Rodízio de Cavalos e Carruagens | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/7.%20Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens/solucao.cs) |
 
+<h3 align="left">Solução de Problemas Essencias com C#</h3>
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Quadrado e ao Cubo | [Código]() |
+|  2  | A Corrida de Tartarugas | [Código]() |
+|  3  | Ultrapassando V | [Código]() |
+|  4  | Validação de Nota | [Código]() |
+|  5  | Pedro Bento e o Mundo de OZ | [Código]() |
+
 </details>
 
 <details>

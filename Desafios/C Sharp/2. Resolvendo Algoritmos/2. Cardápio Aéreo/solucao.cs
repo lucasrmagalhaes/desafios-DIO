@@ -20,8 +20,8 @@
  *      Então assim, por exemplo, considere que o número de refeições de pizza, salada e massa 
  * disponíveis são respectivamente (80, 20, 40), enquanto o número de passageiros que escolheu 
  * pizza, salada e massa seja respectivamente (45, 23, 48). Neste caso, onze pessoas seguramente 
- * ficaram sem suas respectivas escolhas de refeição, já que três passageiros que queriam salada e 
- * oito que gostariam de massa não poderão ser atendidos.
+ * ficaram sem suas respectivas escolhas de refeição, já que três passageiros que queriam salada 
+ * e oito que gostariam de massa não poderão ser atendidos.
  *
  *      Dada a quantidade de refeições disponíveis para cada escolha e o número de refeições 
  * pedidas para cada escolha, você poderia ajudar a aeromoça a determinar quantos passageiros 

@@ -6,7 +6,7 @@
 <h1 align="center">Introdução a Programação com C#</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
+|:---:|:------------------------|:-------:|
 |  1  | Dividindo X por Y | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/1.%20Dividindo%20X%20por%20Y/solucao.cs) |
 |  2  | Distância | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/2.%20Dist%C3%A2ncia/solucao.cs) |
 |  3  | Quanta Mandioca? | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs) |
@@ -20,7 +20,7 @@
 <h1 align="center">Ordenação e Filtros em Java</h1>
 
 | Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
+|:---:|:------------------------|:-------:|
 |  1  | Ordenando Números Pares e Ímpares | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/1.%20Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares/OrderingEvenNumbers.java) |
 |  2  | Compras no Supermercado | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/2.%20Compras%20no%20Supermercado/SupermarketShopping.java) |
 |  3  | Uniformes de Final de Ano | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/1.%20Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/3.%20Uniformes%20de%20Final%20de%20Ano/YearEndUniform.java) |

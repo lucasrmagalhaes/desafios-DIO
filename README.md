@@ -11,6 +11,18 @@
 |  2  | Distância | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/2.%20Dist%C3%A2ncia/solucao.cs) |
 |  3  | Quanta Mandioca? | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs) |
 
+<h3 align="left">Resolvendo Algoritmos</h3>
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Hora da Corrida | [Código](#) |
+|  2  | Cardápio Aéreo | [Código](#) |
+|  3  | Pizza Antes do Final do Ano | [Código](#) |
+|  4  | Conversão de Tempo | [Código](#) |
+|  5  | Idade em Dias | [Código](#) |
+|  6  | Tempo do Dobby | [Código](#) |
+|  7  | Rodízio de Cavalos e Carruagens | [Código](#) |
+
 </details>
 
 

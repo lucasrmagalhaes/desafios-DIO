@@ -58,6 +58,14 @@
 |  4  | Hash Mágico | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/4.%20Hash%20M%C3%A1gico/Main.java) |
 |  5  | O Tabuleiro Secreto | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/2.%20Resolvendo%20Algoritmos%20com%20Java/5.%20O%20Tabuleiro%20Secreto/Main.java) |
 
+<h3 align="left">Solução de Problemas Básicos em Java</h3>
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Exibindo Números Pares | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/1.%20Exibindo%20N%C3%BAmeros%20Pares/solucao.java) |
+|  2  | Idade em Dias | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/2.%20Idade%20em%20Dias/solucao.java) |
+|  3  | Notas da Prova | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Java/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20Java/3.%20Notas%20da%20Prova/solucao.java) |
+
 </details>
 
 <details>

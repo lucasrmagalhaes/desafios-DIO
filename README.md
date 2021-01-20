@@ -131,8 +131,8 @@
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
-|  1  | Ordenando Números Pares e Ímpares | [Código]() |
-|  2  | Animal | [Código]() |
-|  3  | Compras no Supermercado | [Código]() |
+|  1  | Ordenando Números Pares e Ímpares | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/1.%20Ordenando%20N%C3%BAmeros%20Pares%20e%20%C3%8Dmpares/solucao.js) |
+|  2  | Animal | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/2.%20Animal/solucao.js) |
+|  3  | Compras no Supermercado | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/3.%20Compras%20no%20Supermercado/solucao.js) |
 
 </details>

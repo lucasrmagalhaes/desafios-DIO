@@ -26,6 +26,7 @@
 
 let num = parseInt(gets());
 let index = 0;
+
 let listas = Array(num);
 let listaSet = Array(num);
 

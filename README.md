@@ -15,9 +15,9 @@
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
-|  1  | Cálculo de Viagem | [Código](#) |
-|  2  | Álbum da Copa | [Código](#) |
-|  3  | Animal | [Código](#) |
+|  1  | Cálculo de Viagem | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/1.%20C%C3%A1lculo%20de%20Viagem/solucao.cs) |
+|  2  | Álbum da Copa | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/2.%20%C3%81lbum%20da%20Copa/solucao.cs) |
+|  3  | Animal | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/3.%20Animal/solucao.cs) |
 
 <h3 align="left">Resolvendo Algoritmos</h3>
 

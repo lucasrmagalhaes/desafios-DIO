@@ -127,4 +127,12 @@
 |  4  | Pink e Cérebro | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/5.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/5.4.%20Pink%20e%20C%C3%A9rebro/solution.js) |
 |  5  | Menor e Posição | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/5.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/5.5.%20Menor%20e%20Posi%C3%A7%C3%A3o/solution.js) |
 
+<h3 align="left">Desenvolvimento de problemas avançados em JavaScript</h3>
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Ordenando Números Pares e Ímpares | [Código]() |
+|  2  | Animal | [Código]() |
+|  3  | Compras no Supermercado | [Código]() |
+
 </details>

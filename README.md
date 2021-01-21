@@ -1,4 +1,4 @@
-<h1 align="left">Desafios e Soluções :books:</h1>
+<h1 align="center">Desafios e Soluções :books:</h1>
 
 <details>
     <summary>C Sharp</summary>
@@ -135,4 +135,17 @@
 |  2  | Animal | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/2.%20Animal/solucao.js) |
 |  3  | Compras no Supermercado | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/3.%20Compras%20no%20Supermercado/solucao.js) |
 
+</details>
+
+<details>
+    <summary>Ruby</summary>
+
+<h3 align="left">Solucionando Problemas Básicos em Ruby</h3>
+    
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Par ou Ímpar | [Código]() |
+|  2  | DDD | [Código]() |
+|  3  | Idade em Dias | [Código]() |
+    
 </details>

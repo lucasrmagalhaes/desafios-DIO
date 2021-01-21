@@ -1,5 +1,4 @@
 =begin
-
 Desafio
     Leia um valor inteiro N. Este valor será a quantidade de valores que 
 serão lidos em seguida. Para cada valor lido, mostre uma mensagem em inglês 

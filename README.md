@@ -87,6 +87,14 @@
 |  2  | Distância | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.2.%20Dist%C3%A2ncia/solucao.js) |
 |  3  | Quanta Mandioca? | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.3.%20Quanta%20Mandioca/solucao.js) |
 
+<h3 align="left">Introdução a Programação com JavaScript</h3>
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Visita na Feira | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/7.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/1.%20Visita%20na%20Feira/solucao.js) |
+|  2  | Multiplicação Simples | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/7.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/2.%20Multiplica%C3%A7%C3%A3o%20Simples/solucao.js) |
+|  3  | Folha de Pagamento | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/7.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/3.%20Folha%20de%20Pagamento/solucao.js) |
+
 <h3 align="left">Fundamentos Aritméticos</h3>
 
 | Etapa |                              Desafio                              |     Solução     |                           

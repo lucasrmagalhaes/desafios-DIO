@@ -144,8 +144,8 @@
     
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
-|  1  | Par ou Ímpar | [Código]() |
-|  2  | DDD | [Código]() |
-|  3  | Idade em Dias | [Código]() |
+|  1  | Par ou Ímpar | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/1.%20Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/1.%20Par%20ou%20%C3%8Dmpar/solucao.rb) |
+|  2  | DDD | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/1.%20Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/2.%20DDD/solucao.rb) |
+|  3  | Idade em Dias | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/1.%20Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/3.%20Idade%20em%20Dias/solucao.rb) |
     
 </details>

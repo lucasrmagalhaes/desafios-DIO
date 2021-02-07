@@ -119,9 +119,9 @@
 
 | Etapa |                              Desafio                              |     Solução     |                           
 |:---:|:------------------------:|:-------:|
-|  1  | Dividindo X por Y | [Código]() |
-|  2  | Blobs | [Código]() |
-|  3  | Tipos de Combustível | [Código]() |
+|  1  | Dividindo X por Y | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/8.%20%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/1.%20Dividindo%20X%20por%20Y/solucao.js) |
+|  2  | Blobs | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/8.%20%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/2.%20Blobs/solucao.js) |
+|  3  | Tipos de Combustível | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/8.%20%20Solu%C3%A7%C3%A3o%20de%20Problemas%20B%C3%A1sicos%20em%20JavaScript/3.%20Tipo%20de%20Combust%C3%ADvel/solucao.js) |
 
 <h3 align="left">Soluções e Problemas Essenciais</h3>
 

@@ -115,6 +115,14 @@
 |  4  | Imposto de Renda | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/3.%20Problemas%20Aritm%C3%A9ticos/3.4.%20Imposto%20de%20Renda/solucao.js) |
 |  5  | Teorema da Divisão Euclidiana | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/3.%20Problemas%20Aritm%C3%A9ticos/3.5.%20Teorema%20da%20Divis%C3%A3o%20Euclidiana/solucao.js) |
 
+<h3 align="left">Solução de Problemas Básicos em JavaScript</h3>
+
+| Etapa |                              Desafio                              |     Solução     |                           
+|:---:|:------------------------:|:-------:|
+|  1  | Dividindo X por Y | [Código]() |
+|  2  | Blobs | [Código]() |
+|  3  | Tipos de Combustível | [Código]() |
+
 <h3 align="left">Soluções e Problemas Essenciais</h3>
 
 | Etapa |                              Desafio                              |     Solução     |                           

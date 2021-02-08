@@ -1,50 +1,155 @@
 <h1 align="center">Desafios e Soluções :books:</h1>
 
 <details>
-    <summary>C Sharp</summary>
-
-<h3 align="left">Introdução a Programação com C#</h3>
-
-| Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
-|  1  | Dividindo X por Y | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/1.%20Dividindo%20X%20por%20Y/solucao.cs) |
-|  2  | Distância | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/2.%20Dist%C3%A2ncia/solucao.cs) |
-|  3  | Quanta Mandioca? | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs) |
-
-<h3 align="left">Desenvolvendo Algoritmos com C#</h3>
-
-| Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
-|  1  | Cálculo de Viagem | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/1.%20C%C3%A1lculo%20de%20Viagem/solucao.cs) |
-|  2  | Álbum da Copa | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/2.%20%C3%81lbum%20da%20Copa/solucao.cs) |
-|  3  | Animal | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/3.%20Animal/solucao.cs) |
-
-<h3 align="left">Resolvendo Algoritmos</h3>
-
-| Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
-|  1  | Hora da Corrida | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/1.%20Hora%20da%20Corrida/solucao.cs) |
-|  2  | Cardápio Aéreo | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/2.%20Card%C3%A1pio%20A%C3%A9reo/solucao.cs) |
-|  3  | Pizza Antes do Final do Ano | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/3.%20Pizza%20Antes%20do%20Final%20do%20Ano/solucao.cs) |
-|  4  | Conversão de Tempo | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/4.%20Convers%C3%A3o%20de%20Tempo/solucao.cs) |
-|  5  | Idade em Dias | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/5.%20Idade%20em%20Dias/solucao.cs) |
-|  6  | Tempo do Dobby | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/6.%20Tempo%20do%20Dobby/solucao.cs) |
-|  7  | Rodízio de Cavalos e Carruagens | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/7.%20Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens/solucao.cs) |
-
-<h3 align="left">Solução de Problemas Essencias com C#</h3>
-
-| Etapa |                              Desafio                              |     Solução     |                           
-|:---:|:------------------------:|:-------:|
-|  1  | Quadrado e ao Cubo | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/1.%20Quadrado%20e%20ao%20Cubo/solucao.cs) |
-|  2  | A Corrida de Tartarugas | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/2.%20A%20Corrida%20de%20Tartarugas/solucao.cs) |
-|  3  | Ultrapassando V | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/3.%20Ultrapassando%20V/solucao.cs) |
-|  4  | Validação de Nota | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/4.%20Valida%C3%A7%C3%A3o%20de%20Nota/solucao.cs) |
-|  5  | Pedro Bento e o Mundo de OZ | [Código](https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.cs) |
-
+    <summary><strong>C Sharp</strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="3">Introdução a Programação com C#</th>
+            </tr>
+             <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Dividindo X por Y</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/1.%20Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Distância</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/2.%20Dist%C3%A2ncia/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Quanta Mandioca?</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs">Código</a></td>
+        </table>
+        <table border=1>
+            <tr>
+                <th colspan="3">Desenvolvendo Algoritmos com C#</th>
+            </tr>
+             <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Cálculo de Viagem</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/1.%20C%C3%A1lculo%20de%20Viagem/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Álbum da Copa</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/2.%20%C3%81lbum%20da%20Copa/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Animal</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/4.%20Desenvolvendo%20algoritmos%20com%20C%23/3.%20Animal/solucao.cs">Código</a></td>
+            </tr>
+        </table>
+        <table border=1>
+            <tr>
+                <th colspan="3">Resolvendo Algoritmos</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Hora da Corrida</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/1.%20Hora%20da%20Corrida/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Cardápio Aéreo</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/2.%20Card%C3%A1pio%20A%C3%A9reo/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Pizza Antes do Final do Ano</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/3.%20Pizza%20Antes%20do%20Final%20do%20Ano/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/4.%20Convers%C3%A3o%20de%20Tempo/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/5.%20Idade%20em%20Dias/solucao.cs">Código</a></td>
+            </tr>
+             <tr>
+                <td>6</td>
+                <td>Tempo do Dobby</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/6.%20Tempo%20do%20Dobby/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Rodízio de Cavalos e Carruagens</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/2.%20Resolvendo%20Algoritmos/7.%20Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens/solucao.cs">Código</a></td>
+            </tr>
+        </table>
+        <table border=1>
+            <tr>
+                <th colspan="3">Solução de Problemas Essencias com C#</th>
+            </tr>
+            <tr>
+                <th colspan="3"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Quadrado e ao Cubo</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/1.%20Quadrado%20e%20ao%20Cubo/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>A Corrida de Tartarugas</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/2.%20A%20Corrida%20de%20Tartarugas/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Ultrapassando V</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/3.%20Ultrapassando%20V/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Validação de Nota</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/4.%20Valida%C3%A7%C3%A3o%20de%20Nota/solucao.cs">Código</a></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Pedro Bento e o Mundo de OZ</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.cs">Código</a></td>
+            </tr>
+        </table>
+    </div>
 </details>
 
 <details>
-    <summary>Java</summary>
+    <summary><strong>Java</strong></summary>
 
 <h3 align="left">Ordenação e Filtros em Java</h3>
 
@@ -77,7 +182,7 @@
 </details>
 
 <details>
-    <summary>JavaScript</summary>
+    <summary><strong>JavaScript</strong></summary>
 
 <h3 align="left">Introdução a Programação</h3>
 
@@ -154,7 +259,7 @@
 </details>
 
 <details>
-    <summary>Ruby</summary>
+    <summary><strong>Ruby</strong></summary>
 
 <h3 align="left">Solucionando Problemas Básicos em Ruby</h3>
     

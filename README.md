@@ -4,9 +4,9 @@
 <details>
     <summary><strong>C Sharp</strong></summary>
     <br />
-    <div align="center">
+    <div align="left">
         <!-- Introdução a Programação com C# -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Introdução a Programação com C#</th>
             </tr>
@@ -179,9 +179,9 @@
 <details>
     <summary><strong>Java</strong></summary>
     <br />
-    <div align="center">
+    <div align="left">
         <!-- Ordenação e Filtros em Java -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Ordenação e Filtros em Java</th>
             </tr>
@@ -226,7 +226,7 @@
             </tr>
         </table>
         <!-- Resolvendo Algoritmos com Java -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Resolvendo Algoritmos com Java</th>
             </tr>
@@ -271,7 +271,7 @@
             </tr>
         </table>
         <!-- Solução de Problemas Básicos em Java -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Solução de Problemas Básicos em Java</th>
             </tr>
@@ -310,9 +310,9 @@
 <details> 
     <summary><strong>JavaScript</strong></summary>
     <br />
-    <div align="center">
+    <div align="left">
         <!-- Introdução a Programação -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Introdução a Programação</th>
             </tr>
@@ -345,7 +345,7 @@
             </tr>
         </table>
         <!-- Introdução a Programação com JavaScript -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Introdução a Programação com JavaScript</th>
             </tr>
@@ -378,7 +378,7 @@
             </tr>
         </table>
         <!-- Fundamentos Aritméticos -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Fundamentos Aritméticos</th>
             </tr>
@@ -423,7 +423,7 @@
             </tr>
         </table>
         <!-- Problemas Aritméticos -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Problemas Aritméticos</th>
             </tr>
@@ -468,7 +468,7 @@
             </tr>
         </table>
         <!-- Solução de Problemas Básicos em JavaScript -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Solução de Problemas Básicos em JavaScript</th>
             </tr>
@@ -501,7 +501,7 @@
             </tr>
         </table>
         <!-- Soluções e Problemas Essenciais -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Soluções e Problemas Essenciais</th>
             </tr>
@@ -546,7 +546,7 @@
             </tr>
         </table>
         <!-- Busca e Laços de Repetição -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Busca e Laços de Repetição</th>
             </tr>
@@ -591,7 +591,7 @@
             </tr>
         </table>
         <!-- Desenvolvimento de Problemas Avançados em JavaScript -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Desenvolvimento de Problemas Avançados em JavaScript</th>
             </tr>
@@ -630,9 +630,9 @@
 <details>
     <summary><strong>Ruby</strong></summary>
     <br />
-    <div align="center">
+    <div align="left">
         <!-- Solucionando Problemas Básicos em Ruby -->
-        <table border=1 align="center">
+        <table border=1>
             <tr>
                 <th colspan="4">Solucionando Problemas Básicos em Ruby</th>
             </tr>

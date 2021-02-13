@@ -144,19 +144,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Consumo Médio do Automóvel</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/1.%20Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>DDD</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/2.%20DDD/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Aumento de Salário</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/5.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20em%20C%23/3.%20Aumento%20de%20Sal%C3%A1rio/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>

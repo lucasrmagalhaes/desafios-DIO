@@ -127,6 +127,39 @@
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Solução de Problemas em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Solução de Problemas em C#</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Consumo Médio do Automóvel</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>DDD</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Aumento de Salário</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
         <!-- Solução de Problemas Essencias com C# -->
         <table border=1>
             <tr>

@@ -87,31 +87,31 @@
             <tr>
                 <td align="center">1</td>
                 <td>Média 1</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/1.%20M%C3%A9dia%201/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Crescimento Populacional</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/2.%20Crescimento%20Populacional/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Bazinga!</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/3.%20Bazinga!/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Tempo de um Evento</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/4.%20Tempo%20de%20um%20Evento/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">5</td>
                 <td>Comunicação em Piralândia</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/6.%20Desafios%20Aritm%C3%A9ticos%20em%20C%23/5.%20Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>

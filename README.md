@@ -70,6 +70,51 @@
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Desafios Aritméticos em C# -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Desafios Aritméticos em C#</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Média 1</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Crescimento Populacional</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Bazinga!</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Tempo de um Evento</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>Comunicação em Piralândia</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
         <!-- Resolvendo Algoritmos -->
         <table border=1>
             <tr>

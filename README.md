@@ -54,19 +54,19 @@
             <tr>
                 <td align="center">1</td>
                 <td>Dividindo X por Y</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/7.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/1.%20Dividindo%20X%20por%20Y/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Bazinga!</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/7.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/2.%20Bazinga!/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Coxinha de Bueno</td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/7.%20%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/3.%20Coxinha%20de%20Bueno/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
         </table>
         <!-- Desenvolvendo Algoritmos com C# -->

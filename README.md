@@ -37,6 +37,38 @@
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
         </table>
+                <!-- Introdução a Programação com .NET -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Introdução a Programação com .NET</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Dividindo X por Y</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Bazinga!</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Coxinha de Bueno</td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+        </table>
         <!-- Desenvolvendo Algoritmos com C# -->
         <table border=1>
             <tr>

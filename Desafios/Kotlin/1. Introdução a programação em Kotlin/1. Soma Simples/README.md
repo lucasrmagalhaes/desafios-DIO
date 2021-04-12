@@ -25,7 +25,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        <a href="">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/1.%20Soma%20Simples/solucao.kt">Código</a>
     </p>
 
 <hr />

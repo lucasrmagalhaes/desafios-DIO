@@ -741,10 +741,10 @@
     <summary><strong>Kotlin</strong></summary>
     <br />
     <div align="left">
-        <!-- Introdução a programação em Kotlin -->
+        <!-- Introdução a Programação em Kotlin -->
         <table border=1>
             <tr>
-                <th colspan="4">Introdução a programação em Kotlin</th>
+                <th colspan="4">Introdução a Programação em Kotlin</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -772,6 +772,51 @@
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/3.%20Quadrado%20e%20ao%20Cubo/README.md">Quadrado e ao Cubo</a></td>
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/3.%20Quadrado%20e%20ao%20Cubo/solucao.kt">Código</a></td>
                 <td align="center">✔️</td>
+        </table>
+        <!-- Solucionando Problemas em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Solucionando Problemas em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/1.%20Taxa%20de%20Imposto%20de%20Renda/README.md">Taxa de Imposto de Renda</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/1.%20Taxa%20de%20Imposto%20de%20Renda/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/2.%20%C3%81rea%20do%20C%C3%ADrculo/README.md">Área do Círculo</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/2.%20%C3%81rea%20do%20C%C3%ADrculo/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/3.%20Primo%20R%C3%A1pido/README.md">Primo Rápido</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/3.%20Primo%20R%C3%A1pido/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/4.%20A%20Corrida%20de%20Tartarugas/README.md">A Corrida de Tartarugas</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/4.%20A%20Corrida%20de%20Tartarugas/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/5.%20Figurinhas/README.md">Figurinhas</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/5.%20Figurinhas/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
         </table>
     </div>
 </details>

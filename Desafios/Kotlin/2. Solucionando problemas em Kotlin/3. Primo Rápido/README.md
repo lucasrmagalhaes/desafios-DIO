@@ -31,7 +31,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/3.%20Primo%20R%C3%A1pido/solucao.kt">Código</a>
     </p>
 
 <hr />

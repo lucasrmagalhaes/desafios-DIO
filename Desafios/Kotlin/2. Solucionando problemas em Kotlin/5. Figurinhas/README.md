@@ -2,7 +2,7 @@
 
 <h4 align="left">Desafio</h4>
     <p align="justify">
-        <a href="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1028.jpg">
+        <a align="center" href="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1028.jpg">
             <img 
                 src="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1028.jpg" 
                 alt="Figurinhas" 
@@ -30,7 +30,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/5.%20Figurinhas/solucao.kt">Código</a>
     </p>
 
 <hr />

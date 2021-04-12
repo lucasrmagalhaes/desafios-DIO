@@ -38,7 +38,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/4.%20A%20Corrida%20de%20Tartarugas/solucao.kt">Código</a>
     </p>
 
 <hr />

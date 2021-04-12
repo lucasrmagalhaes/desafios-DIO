@@ -5,8 +5,8 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Há um país denominado Lolipad, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem qualquer desvio. A moeda deste país é o Loli, cujo símbolo é o R$.
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Você terá o desafio de ler um valor com duas casas decimais, equivalente ao salário de uma pessoa de Loli. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
-        <br />
-        <a href="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1051_pt.png">
+        <br /><br />
+        <a align="center" href="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1051_pt.png">
             <img 
                 src="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1051_pt.png" 
                 alt="Renda e Imposto de Renda" 
@@ -34,7 +34,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/2.%20Solucionando%20problemas%20em%20Kotlin/1.%20Taxa%20de%20Imposto%20de%20Renda/solucao.kt">Código</a>
     </p>
 
 <hr />

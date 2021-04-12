@@ -8,7 +8,7 @@
 
 <hr />
 
-<h4 align="center">Entrada</h4>
+<h4 align="left">Entrada</h4>
     <p align="justify">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O arquivo de entrada contém 1 valor inteiro qualquer.
     </p>

@@ -37,7 +37,7 @@
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/3.%20Quanta%20Mandioca/solucao.cs">Código</a></td>
                 <td align="center">✔️</td>
         </table>
-                <!-- Introdução a Programação com .NET -->
+        <!-- Introdução a Programação com .NET -->
         <table border=1>
             <tr>
                 <th colspan="4">Introdução a Programação com .NET</th>
@@ -732,6 +732,46 @@
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/JavaScript/6.%20Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/3.%20Compras%20no%20Supermercado/solucao.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+        </table>
+    </div>
+</details>
+
+<!-- Kotlin -->
+<details>
+    <summary><strong>Kotlin</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Introdução a programação em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Introdução a programação em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/1.%20Soma%20Simples/README.md">Soma Simples</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/1.%20Soma%20Simples/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/2.%20N%C3%BAmeros%20%C3%8Dmpares/README.md">Números Ímpares</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/2.%20N%C3%BAmeros%20%C3%8Dmpares/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/3.%20Quadrado%20e%20ao%20Cubo/README.md">Quadrado e ao Cubo</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/1.%20Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/3.%20Quadrado%20e%20ao%20Cubo/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
         </table>
     </div>
 </details>

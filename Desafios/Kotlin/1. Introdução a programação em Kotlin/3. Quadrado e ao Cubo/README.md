@@ -1,19 +1,17 @@
 <h4 align="center">Desafio</h4>
 
 <p align="justify">
-    Leia dois valores inteiros identificados como variáveis A e B. Calcule a soma entre elas e chame essa variável de SOMA.
-    <br />
-    A seguir escreva o valor desta variável.
+    Você terá o desafio de escrever um programa que leia um valor inteiro N (1 < N < 1000). Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.
 </p>
 
 <h4 align="center">Entrada</h4>
 
 <p align="justify">
-    O arquivo de entrada contém 2 valores inteiros.
+    O arquivo de entrada contém um número inteiro positivo N.
 </p>
 
 <h4 align="center">Saída</h4>
 
 <p align="justify">
-    Imprima a variável SOMA com todas as letras maiúsculas, inserindo um espaço em branco antes e depois do símbolo de igualdade, seguido pelo valor correspondente à soma de A e B.
+    Imprima a saída conforme o exemplo fornecido.
 <p>

@@ -6,8 +6,9 @@
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Você terá o desafio de ler um valor com duas casas decimais, equivalente ao salário de uma pessoa de Loli. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
         <br /><br />
-        <a align="center" href="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1051_pt.png">
-            <img 
+        <a href="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1051_pt.png">
+            <img
+                align="center" 
                 src="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1051_pt.png" 
                 alt="Renda e Imposto de Renda" 
             />

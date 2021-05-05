@@ -818,6 +818,39 @@
                 <td align="center">✔️</td>
             </tr>
         </table>
+        <!-- Praticando Programação em Kotlin -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Praticando Programação em Kotlin</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/3.%20Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/1.%20O%20jogo%20Matem%C3%A1tico%20de%20Paula/README.md">O jogo Matemático de Paula</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/3.%20Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/1.%20O%20jogo%20Matem%C3%A1tico%20de%20Paula/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/3.%20Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/2.%20Convers%C3%A3o%20Simples%20de%20Base/README.md">Conversão Simples de Base</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/3.%20Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/2.%20Convers%C3%A3o%20Simples%20de%20Base/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/3.%20Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/3.%20Bob%20Conduite/README.md">Bob Conduite</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/3.%20Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/3.%20Bob%20Conduite/solucao.kt">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
     </div>
 </details>
 

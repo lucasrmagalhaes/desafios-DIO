@@ -61,7 +61,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Kotlin/3.%20Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/1.%20O%20jogo%20Matem%C3%A1tico%20de%20Paula/solucao.kt">Código</a>
     </p>
 
 <hr />

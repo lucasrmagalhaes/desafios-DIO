@@ -925,5 +925,52 @@
                 <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/1.%20Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/3.%20Idade%20em%20Dias/solucao.rb">Código</a></td>
                 <td align="center">✔️</td>
         </table>
+        <!-- Solucionando Problemas Básicos em Ruby -->
+        <!-- Praticando com Desafios Intermediários em Ruby -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Praticando com Desafios Intermediários em Ruby</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td><a href="#">Encaixa ou Não?</a></td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td><a href="#">Tipo de Combustível</a></td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td><a href="#">Crescimento Populacional</a></td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td><a href="#">Fibonacci Fácil</a></td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td><a href="#">Sequência Lógica</a></td>
+                <td><a href="#">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
+        <!-- Praticando com Desafios Intermediários em Ruby -->
     </div>
 </details>

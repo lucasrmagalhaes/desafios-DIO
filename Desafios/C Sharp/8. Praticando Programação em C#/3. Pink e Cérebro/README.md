@@ -29,7 +29,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/C%20Sharp/8.%20Praticando%20Programa%C3%A7%C3%A3o%20em%20C%23/3.%20Pink%20e%20C%C3%A9rebro/solucao.cs">Código</a>
     </p>
 
 <hr />

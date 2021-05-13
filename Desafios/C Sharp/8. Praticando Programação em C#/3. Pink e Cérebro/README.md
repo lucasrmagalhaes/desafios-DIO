@@ -29,7 +29,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Código</a>
     </p>
 
 <hr />

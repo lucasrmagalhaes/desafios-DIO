@@ -23,7 +23,7 @@
 
 <h4 align="left">Solução</h4>
     <p align="left">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Código</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/1.%20Encaixa%20ou%20N%C3%A3o/solucao.rb">Código</a>
     </p>
 
 <hr />

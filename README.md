@@ -942,32 +942,32 @@
             </tr>
             <tr>
                 <td align="center">1</td>
-                <td><a href="#">Encaixa ou Não?</a></td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/1.%20Encaixa%20ou%20N%C3%A3o/README.md">Encaixa ou Não?</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/1.%20Encaixa%20ou%20N%C3%A3o/solucao.rb">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
-                <td><a href="#">Tipo de Combustível</a></td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/2.%20Tipo%20de%20Combust%C3%ADvel/README.md">Tipo de Combustível</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/2.%20Tipo%20de%20Combust%C3%ADvel/solucao.rb">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
-                <td><a href="#">Crescimento Populacional</a></td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/3.%20Crescimento%20Populacional/README.md">Crescimento Populacional</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/3.%20Crescimento%20Populacional/solucao.rb">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">4</td>
-                <td><a href="#">Fibonacci Fácil</a></td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/4.%20Fibonacci%20F%C3%A1cil/README.md">Fibonacci Fácil</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/4.%20Fibonacci%20F%C3%A1cil/solucao.rb">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">5</td>
-                <td><a href="#">Sequência Lógica</a></td>
-                <td><a href="#">Código</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/5.%20Sequ%C3%AAncia%20L%C3%B3gica/README.md">Sequência Lógica</a></td>
+                <td><a href="https://github.com/lucasrmagalhaes/desafios-DIO/blob/master/Desafios/Ruby/2.%20Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/5.%20Sequ%C3%AAncia%20L%C3%B3gica/solucao.rb">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
